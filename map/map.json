@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"."
+         "target":"map.json"
         }
     },
  "height":103,
@@ -21,6 +21,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T01"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -39,6 +44,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T02"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -57,6 +67,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T03"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -75,6 +90,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T04"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -93,6 +113,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T05"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -111,6 +136,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T06"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -129,6 +159,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T07"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -147,6 +182,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T08"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -165,6 +205,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T09"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -183,6 +228,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T10"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -201,6 +251,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T11"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -219,6 +274,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T12"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -237,6 +297,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T13"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -255,6 +320,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T14"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -273,6 +343,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T15"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -291,6 +366,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T16"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -309,6 +389,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_T17"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -327,6 +412,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_Caf"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -345,6 +435,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"EingebetteteSysteme_Emp"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }],
          "type":"tilelayer",
          "visible":true,
