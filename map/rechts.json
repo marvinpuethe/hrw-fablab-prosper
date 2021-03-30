@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"."
+         "target":"rechts.json"
         }
     },
  "height":10,
@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"test.json"
+                 "value":"test.json#startR"
                 }],
          "type":"tilelayer",
          "visible":true,
