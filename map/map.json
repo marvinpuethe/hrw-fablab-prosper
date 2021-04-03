@@ -467,7 +467,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Hier findest Du Informationen zu den einzelnen Teams"
+                 "value":"Mit der Leertaste bekommst Du Informationen zu den einzelnen Teams"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -495,7 +495,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Hier findest Du Informationen zu Team 1"
+                 "value":"Mit der Leertaste bekommst Du Informationen zu Team 1"
                 }],
          "type":"tilelayer",
          "visible":true,
