@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"emmi.json"
+         "target":"leni.json"
         }
     },
  "height":20,
@@ -20,7 +20,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Emmi_Caf"
+                 "value":"Leni_Caf"
                 }, 
                 {
                  "name":"jitsiUrl",
