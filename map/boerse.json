@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"map.json"
+         "target":"boerse.json"
         }
     },
  "height":103,
@@ -257,6 +257,12 @@
          "id":52,
          "name":"StartDisco",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":103,
@@ -269,6 +275,12 @@
          "id":50,
          "name":"StartGymInside",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":103,
@@ -281,6 +293,12 @@
          "id":51,
          "name":"StartGymOutside",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":103,

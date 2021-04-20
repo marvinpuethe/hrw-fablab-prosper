@@ -56,6 +56,12 @@
          "id":5,
          "name":"StartGymInside",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
@@ -68,6 +74,12 @@
          "id":6,
          "name":"StartGymOutside",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
